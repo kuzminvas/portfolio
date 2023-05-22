@@ -4,4 +4,4 @@
 
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Определение стоимости автомобилей](https://github.com/kuzminvas/portfolio/tree/233e01d1d5652f1b8353a107d7382f1671156b69/price_auto) | Выбор лучшей модели для определения <br/>стоимости автомобилей <br/> | python, pandas, sklearn (в том числе make_column_transformer, make_pipeline), matplotlib, lightgbm, catboost       |
+| 1.   | [Определение стоимости автомобилей](https://github.com/kuzminvas/portfolio/tree/233e01d1d5652f1b8353a107d7382f1671156b69/price_auto) | Разработка системы рекомендации  <br/>стоимости автомобиля <br/> на основе его описания | python, pandas, sklearn (в том числе make_column_transformer, make_pipeline), matplotlib, lightgbm, catboost       |
