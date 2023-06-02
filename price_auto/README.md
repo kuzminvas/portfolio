@@ -20,8 +20,8 @@ ________________________________________________________________________________
 скорость предсказания;
 время обучения.
 
-в этом проекте использовали
-pandas 
+в этом проекте использовали 
+<span style="background-color: #FFFF00">pandas 
 numpy 
 matplotlib 
 seaborn
@@ -35,7 +35,7 @@ RandomizedSearchCV
 LinearRegression
 DecisionTreeRegressor
 lightgbm
-CatBoost
+CatBoost</span>
 
 В ходе подготовки данных:
 
